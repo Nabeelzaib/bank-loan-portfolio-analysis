@@ -1,0 +1,354 @@
+MemberID,CustomerName,EmpTitle,EmpLength,HomeOwnership,VerificationStatus,AnnualIncome,State
+MB-0001,hassan butt,Manager,< 1 year,Own,Verified,1835900.0,Punjab
+MB-0002,Zara Ansari,Software Engineer,< 1 year,Mortgage,Verified,681000.0,Balochistan
+MB-0003,  Sara Chatha  ,Teacher,1 year,Rent,Verified,2723800.0,Balochistan
+MB-0004,Sara Sheikh,Farmer,10+ years,Own,Verified,2570900.0,Islamabad
+MB-0005,Mariam Ansari,Teacher,5 years,Rent,Not Verified,709200.0,Gilgit-Baltistan
+MB-0006,Ahmed Qureshi,Driver,1 year,Mortgage,Not Verified,3564400.0,Balochistan
+MB-0007,imran jutt,Shop Owner,2 years,Own,Source Verified,3575300.0,Punjab
+MB-0008,  Imran Iqbal  ,Government Employee,2 years,Rent,Source Verified,4416700.0,Punjab
+MB-0009,Kashif Chaudhry,Electrician,2 years,Own,Not Verified,464700.0,Gilgit-Baltistan
+MB-0010,  Ahmed Awan  ,Driver,10+ years,Mortgage,Not Verified,2796400.0,Islamabad
+MB-0011,Iqra Farooq,Consultant,< 1 year,Mortgage,Source Verified,573000.0,Gilgit-Baltistan
+MB-0012,  Junaid Iqbal  ,Manager,10+ years,Mortgage,Not Verified,4025600.0,Khyber Pakhtunkhwa
+MB-0013,ALI FAROOQ,Accountant,5 years,Own,Verified,,Sindh
+MB-0014,areeba sheikh,Sales Executive,10+ years,mortgage,Not Verified,1986900.0,Khyber Pakhtunkhwa
+MB-0015,adeel butt,Consultant,5 years,Mortgage,Not Verified,3167400.0,Balochistan
+MB-0016,Fatima Butt,Accountant,1 year,Own,Verified,2336800.0,Islamabad
+MB-0017,HINA IQBAL,Software Engineer,1 year,Mortgage,Source Verified,2678600.0,Sindh
+MB-0018,  Junaid Chatha  ,Driver,7 years,Rent,Not Verified,4078000.0,Gilgit-Baltistan
+MB-0019,iqra ansari,Sales Executive,3 years,mortgage,Source Verified,1981900.0,Sindh
+MB-0020,ahmed sheikh,Accountant,< 1 year,Mortgage,Verified,301000.0,Sindh
+MB-0021,SANA MALIK,Driver,< 1 year,Own,Source Verified,1880200.0,
+MB-0022,  Zain Raza  ,Shop Owner,3 years,own,Not Verified,4471000.0,Balochistan
+MB-0023,AMNA FAROOQ,Teacher,1 year,Own,Source Verified,1412000.0,Gilgit-Baltistan
+MB-0024,Hina Ansari,Bank Officer,5 years,mortgage,Source Verified,4139400.0,Islamabad
+MB-0025,Mariam Hussain,Nurse,10+ years,Mortgage,Verified,1793900.0,Sindh
+MB-0026,  Sana Ansari  ,Shop Owner,7 years,Own,Verified,3685500.0,Balochistan
+MB-0027,Areeba Awan,Bank Officer,5 years,Mortgage,Verified,4456300.0,Khyber Pakhtunkhwa
+MB-0028,Amna Iqbal,Nurse,5 years,Mortgage,Source Verified,4449800.0,Khyber Pakhtunkhwa
+MB-0029,Ahmed Sheikh,Bank Officer,3 years,Own,Not Verified,2921100.0,Islamabad
+MB-0030,danish khan,Self Employed,7 years,Mortgage,Verified,3805500.0,Punjab
+MB-0031,Zara Chaudhry,Government Employee,1 year,Mortgage,Not Verified,664300.0,Gilgit-Baltistan
+MB-0032,omar farooq,Nurse,< 1 year,Rent,Verified,415700.0,Islamabad
+MB-0033,Adeel Farooq,Driver,10+ years,Rent,Source Verified,4237400.0,Sindh
+MB-0034,Sana Ansari,Software Engineer,< 1 year,Rent,Source Verified,3447900.0,punjab
+MB-0035,Nida Chatha,Consultant,10+ years,own,Verified,1530500.0,Sindh
+MB-0036,SALMAN QURESHI,Doctor,5 years,Mortgage,Verified,4122100.0,Khyber Pakhtunkhwa
+MB-0037,  Adeel Farooq  ,Consultant,5 years,Mortgage,Source Verified,849200.0,Sindh
+MB-0038,Kashif Ansari,Consultant,3 years,Own,Verified,1023900.0,Balochistan
+MB-0039,Rabia Baig,Farmer,< 1 year,Mortgage,Source Verified,2632900.0,Punjab
+MB-0040,Adeel Ansari,Bank Officer,1 year,mortgage,Verified,2432400.0,Islamabad
+MB-0041,Ali Awan,Government Employee,2 years,Rent,Source Verified,2451100.0,Gilgit-Baltistan
+MB-0042,  Zain Farooq  ,Farmer,10+ years,Mortgage,Verified,3236700.0,Khyber Pakhtunkhwa
+MB-0043,Zara Ansari,Consultant,3 years,Own,Not Verified,2156900.0,Punjab
+MB-0044,mahnoor sheikh,Teacher,1 year,Rent,Verified,4067500.0,Sindh
+MB-0045,JUNAID HUSSAIN,Accountant,2 years,Own,Verified,3436100.0,Punjab
+MB-0046,omar jutt,Accountant,7 years,Own,Not Verified,,Balochistan
+MB-0047,Hassan Chaudhry,Shop Owner,2 years,Own,Verified,1719500.0,Balochistan
+MB-0048,Tariq Baig,Sales Executive,2 years,Rent,Source Verified,4335300.0,Punjab
+MB-0049,Zara Awan,Self Employed,< 1 year,Own,Verified,4104800.0,Sindh
+MB-0050,Zain Awan,Consultant,3 years,Rent,Not Verified,2005000.0,Islamabad
+MB-0051,  Zara Ansari  ,Government Employee,7 years,mortgage,Verified,3658300.0,Sindh
+MB-0052,Nida Jutt,Doctor,< 1 year,rent,Not Verified,651700.0,Sindh
+MB-0053,Ahmed Iqbal,Government Employee,< 1 year,Mortgage,Not Verified,4192000.0,Khyber Pakhtunkhwa
+MB-0054,Rabia Butt,Farmer,7 years,Own,Verified,1400000.0,Sindh
+MB-0055,USMAN JUTT,Manager,2 years,Rent,Not Verified,2171900.0,Gilgit-Baltistan
+MB-0056,HINA IQBAL,Electrician,< 1 year,mortgage,Verified,3378900.0,Islamabad
+MB-0057,usman ansari,Bank Officer,3 years,Own,Source Verified,2115100.0,Balochistan
+MB-0058,sana chatha,Farmer,2 years,Rent,Verified,1739400.0,Gilgit-Baltistan
+MB-0059,Areeba Hussain,Sales Executive,2 years,Own,Verified,597000.0,Gilgit-Baltistan
+MB-0060,adeel iqbal,Accountant,< 1 year,Own,Not Verified,3956300.0,Gilgit-Baltistan
+MB-0061,Mariam Qureshi,Nurse,2 years,Own,Verified,1430000.0,SINDH
+MB-0062,ZAIN RAZA,Farmer,2 years,own,Not Verified,1215000.0,Sindh
+MB-0063,ali raza,Teacher,3 years,Mortgage,Verified,1342400.0,Punjab
+MB-0064,Ahmed Iqbal,Accountant,3 years,rent,Verified,1558500.0,Gilgit-Baltistan
+MB-0065,  Fatima Malik  ,Farmer,10+ years,Own,Source Verified,3593000.0,Islamabad
+MB-0066,OMAR AWAN,Nurse,3 years,Own,Source Verified,3001500.0,Punjab
+MB-0067,  Danish Chatha  ,Manager,3 years,Rent,Source Verified,885100.0,Islamabad
+MB-0068,  Salman Ansari  ,Consultant,10+ years,Own,Source Verified,3651500.0,Gilgit-Baltistan
+MB-0069,Mahnoor Baig,Teacher,< 1 year,own,Not Verified,4330000.0,Balochistan
+MB-0070,  Danish Farooq  ,Software Engineer,7 years,Own,Source Verified,1327200.0,Khyber Pakhtunkhwa
+MB-0071,Ali Farooq,Nurse,5 years,rent,Source Verified,577400.0,Gilgit-Baltistan
+MB-0072,Amna Iqbal,Consultant,2 years,Own,Verified,1269100.0,Gilgit-Baltistan
+MB-0073,tariq farooq,Teacher,3 years,Rent,Verified,2891300.0,Gilgit-Baltistan
+MB-0074,  Usman Malik  ,Accountant,2 years,Mortgage,Source Verified,1578600.0,Islamabad
+MB-0075,bilal khan,Software Engineer,3 years,Mortgage,Verified,3207200.0,Gilgit-Baltistan
+MB-0076,  Amna Iqbal  ,Doctor,3 years,Mortgage,Verified,4471900.0,Islamabad
+MB-0077,Usman Iqbal,Self Employed,3 years,Own,Verified,3743600.0,Balochistan
+MB-0078,Zain Chaudhry,Self Employed,1 year,Own,Verified,3439400.0,Khyber Pakhtunkhwa
+MB-0079,  Sadia Butt  ,Consultant,7 years,Rent,Verified,3254000.0,Sindh
+MB-0080,amna jutt,Sales Executive,< 1 year,own,Not Verified,3162700.0,Balochistan
+MB-0081,Mariam Baig,Sales Executive,2 years,Mortgage,Not Verified,307300.0,Khyber Pakhtunkhwa
+MB-0082,Danish Chaudhry,Self Employed,1 year,rent,Source Verified,1517300.0,Khyber Pakhtunkhwa
+MB-0083,ahmed chaudhry,Consultant,5 years,Own,Not Verified,3473800.0,Punjab
+MB-0084,Zain Malik,Consultant,7 years,Mortgage,Verified,1347200.0,Khyber Pakhtunkhwa
+MB-0085,NIDA ANSARI,Bank Officer,10+ years,Mortgage,Not Verified,4013900.0,Gilgit-Baltistan
+MB-0086,  Omar Jutt  ,Farmer,1 year,rent,Source Verified,2025700.0,Islamabad
+MB-0087,SALMAN BUTT,Government Employee,< 1 year,rent,Not Verified,2042400.0,Khyber Pakhtunkhwa
+MB-0088,MARIAM IQBAL,Sales Executive,7 years,Own,Source Verified,3109300.0,Punjab
+MB-0089,Hina Hussain,Teacher,1 year,Rent,Not Verified,2611600.0,Balochistan
+MB-0090,zara raza,Sales Executive,1 year,Rent,Verified,1033700.0,Islamabad
+MB-0091,Ahmed Raza,Shop Owner,2 years,Rent,Verified,3448600.0,Balochistan
+MB-0092,  Omar Chaudhry  ,Bank Officer,3 years,Mortgage,Verified,2392200.0,Islamabad
+MB-0093,  Sadia Butt  ,Farmer,7 years,own,Verified,1915200.0,Gilgit-Baltistan
+MB-0094,TARIQ CHAUDHRY,Consultant,10+ years,own,Not Verified,3279900.0,Balochistan
+MB-0095,Imran Farooq,Teacher,3 years,Rent,Not Verified,1343600.0,Punjab
+MB-0096,Fatima Butt,Farmer,7 years,Own,Source Verified,3244200.0,Balochistan
+MB-0097,Ahmed Ansari,Software Engineer,10+ years,Own,Verified,3011100.0,Khyber Pakhtunkhwa
+MB-0098,BILAL HUSSAIN,Farmer,7 years,Mortgage,Verified,717700.0,Khyber Pakhtunkhwa
+MB-0099,Kashif Qureshi,Sales Executive,2 years,Own,Verified,343900.0,Khyber Pakhtunkhwa
+MB-0100,TARIQ IQBAL,Manager,10+ years,Own,Verified,2597400.0,Punjab
+MB-0101,NIDA BAIG,Software Engineer,< 1 year,Own,Source Verified,3018100.0,Punjab
+MB-0102,zain sheikh,Self Employed,2 years,Own,Source Verified,1719800.0,Balochistan
+MB-0103,sadia hussain,Bank Officer,< 1 year,Mortgage,Source Verified,583200.0,Balochistan
+MB-0104,Usman Iqbal,Bank Officer,3 years,Own,Not Verified,757800.0,Islamabad
+MB-0105,Amna Qureshi,Self Employed,1 year,Mortgage,Source Verified,537000.0,Islamabad
+MB-0106,bilal jutt,Software Engineer,1 year,Own,Verified,2044600.0,Gilgit-Baltistan
+MB-0107,sara butt,Government Employee,7 years,Mortgage,Verified,4212700.0,Khyber Pakhtunkhwa
+MB-0108,  Usman Butt  ,Nurse,3 years,Own,Source Verified,1890200.0,Khyber Pakhtunkhwa
+MB-0109,Hassan Farooq,Teacher,< 1 year,Own,Not Verified,2064800.0,Punjab
+MB-0110,Sana Awan,Sales Executive,2 years,Mortgage,Not Verified,668600.0,Gilgit-Baltistan
+MB-0111,AMNA SHEIKH,Farmer,3 years,Own,Source Verified,4067400.0,Punjab
+MB-0112,Waqas Chaudhry,Electrician,7 years,mortgage,Verified,2249000.0,Punjab
+MB-0113,Zain Sheikh,Self Employed,5 years,Mortgage,Not Verified,4322300.0,Islamabad
+MB-0114,SARA IQBAL,Self Employed,2 years,mortgage,Source Verified,4149100.0,Gilgit-Baltistan
+MB-0115,Ahmed Khan,Teacher,3 years,Rent,Not Verified,3617200.0,Balochistan
+MB-0116,Danish Farooq,Self Employed,3 years,own,Source Verified,1573900.0,Gilgit-Baltistan
+MB-0117,  Salman Butt  ,Bank Officer,2 years,Mortgage,Source Verified,631900.0,Sindh
+MB-0118,Omar Awan,Bank Officer,3 years,Own,Not Verified,2620900.0,Khyber Pakhtunkhwa
+MB-0119,Hina Chaudhry,Teacher,2 years,rent,Verified,2068500.0,Gilgit-Baltistan
+MB-0120,Tariq Butt,Accountant,3 years,Mortgage,Source Verified,1286700.0,Islamabad
+MB-0121,Komal Awan,Electrician,10+ years,Mortgage,Source Verified,1424200.0,Khyber Pakhtunkhwa
+MB-0122,Areeba Iqbal,Government Employee,1 year,Own,Verified,1481700.0,Islamabad
+MB-0123,Usman Raza,Sales Executive,2 years,Own,Verified,3028500.0,Punjab
+MB-0124,Waqas Farooq,Teacher,< 1 year,Mortgage,Verified,3830300.0,Khyber Pakhtunkhwa
+MB-0125,SARA JUTT,Bank Officer,< 1 year,Own,Source Verified,1115500.0,Punjab
+MB-0126,Sadia Ansari,Government Employee,5 years,Mortgage,Source Verified,4271900.0,Punjab
+MB-0127,  Waqas Qureshi  ,Shop Owner,1 year,Own,Verified,485500.0,Khyber Pakhtunkhwa
+MB-0128,Sara Qureshi,Consultant,< 1 year,Mortgage,Not Verified,1077600.0,Khyber Pakhtunkhwa
+MB-0129,Ahmed Sheikh,Electrician,3 years,Rent,Not Verified,725800.0,Balochistan
+MB-0130,Mahnoor Ansari,Manager,5 years,Own,Not Verified,3220700.0,Balochistan
+MB-0131,MARIAM HUSSAIN,Sales Executive,< 1 year,Mortgage,Not Verified,2039100.0,Punjab
+MB-0132,KOMAL AWAN,Manager,1 year,Mortgage,Verified,4256300.0,Balochistan
+MB-0133,adeel butt,Teacher,10+ years,Own,Not Verified,2235800.0,Sindh
+MB-0134,Bilal Khan,Farmer,1 year,Rent,Not Verified,673900.0,Islamabad
+MB-0135,  Zara Raza  ,Accountant,1 year,Mortgage,Source Verified,1021500.0,Punjab
+MB-0136,ayesha chaudhry,Electrician,10+ years,Own,Verified,4397300.0,Balochistan
+MB-0137,  Hassan Khan  ,Self Employed,7 years,mortgage,Source Verified,2905400.0,Sindh
+MB-0138,Waqas Awan,Driver,3 years,Rent,Not Verified,1068500.0,Sindh
+MB-0139,  Sara Chaudhry  ,Accountant,3 years,mortgage,Verified,4376900.0,Sindh
+MB-0140,  Sara Jutt  ,Consultant,10+ years,rent,Not Verified,794500.0,Islamabad
+MB-0141,TARIQ ANSARI,Manager,3 years,Mortgage,Not Verified,1934700.0,Khyber Pakhtunkhwa
+MB-0142,tariq ansari,Accountant,< 1 year,Own,Not Verified,2254100.0,Balochistan
+MB-0143,salman qureshi,Consultant,1 year,Mortgage,Verified,839500.0,Balochistan
+MB-0144,sadia malik,Farmer,5 years,rent,Source Verified,847100.0,Gilgit-Baltistan
+MB-0145,  Hassan Awan  ,Teacher,< 1 year,Rent,Source Verified,4293600.0,Sindh
+MB-0146,Ali Chatha,Driver,7 years,Rent,Verified,852800.0,Balochistan
+MB-0147,Mariam Awan,Manager,10+ years,Rent,Verified,3798800.0,Islamabad
+MB-0148,Salman Iqbal,Shop Owner,5 years,Mortgage,Not Verified,903000.0,Islamabad
+MB-0149,Zara Farooq,Driver,2 years,Rent,Not Verified,1863500.0,Sindh
+MB-0150,Hina Chaudhry,Manager,2 years,Rent,Not Verified,1008700.0,Khyber Pakhtunkhwa
+MB-0151,  Ayesha Awan  ,Software Engineer,7 years,Mortgage,Not Verified,2631800.0,Islamabad
+MB-0152,Junaid Jutt,Doctor,5 years,Rent,Source Verified,3650200.0,Khyber Pakhtunkhwa
+MB-0153,  Omar Raza  ,Accountant,2 years,Mortgage,Not Verified,1266200.0,Islamabad
+MB-0154,AREEBA KHAN,Consultant,5 years,Mortgage,Source Verified,4199500.0,Khyber Pakhtunkhwa
+MB-0155,Areeba Khan,Bank Officer,1 year,Mortgage,Not Verified,2054300.0,Khyber Pakhtunkhwa
+MB-0156,Adeel Khan,Government Employee,1 year,Rent,Verified,528500.0,Islamabad
+MB-0157,Sadia Iqbal,Farmer,2 years,Rent,Source Verified,1564900.0,Sindh
+MB-0158,  Usman Raza  ,Consultant,3 years,own,Verified,3271400.0,Balochistan
+MB-0159,Ayesha Malik,Consultant,7 years,Mortgage,Not Verified,4362000.0,Punjab
+MB-0160,  Waqas Chatha  ,Self Employed,2 years,Rent,Not Verified,2827900.0,Islamabad
+MB-0161,Areeba Farooq,Accountant,< 1 year,own,Verified,2005200.0,Sindh
+MB-0162,Hina Khan,Software Engineer,5 years,Rent,Verified,897500.0,Sindh
+MB-0163,  Kashif Qureshi  ,Manager,7 years,Mortgage,Verified,2436000.0,Punjab
+MB-0164,Mariam Hussain,Self Employed,7 years,Mortgage,Verified,1875700.0,Balochistan
+MB-0165,areeba jutt,Teacher,7 years,Rent,Verified,4485800.0,Khyber Pakhtunkhwa
+MB-0166,Fatima Hussain,Teacher,2 years,Rent,Not Verified,3289100.0,Khyber Pakhtunkhwa
+MB-0167,waqas ansari,Manager,10+ years,Rent,Not Verified,2996400.0,Sindh
+MB-0168,  Ahmed Jutt  ,Software Engineer,1 year,Mortgage,Source Verified,1151700.0,Sindh
+MB-0169,AREEBA JUTT,Bank Officer,3 years,Mortgage,Not Verified,4111800.0,Gilgit-Baltistan
+MB-0170,  Zara Baig  ,Government Employee,3 years,Rent,Verified,2136300.0,Gilgit-Baltistan
+MB-0171,FATIMA QURESHI,Electrician,1 year,Mortgage,Verified,2673900.0,Sindh
+MB-0172,Bilal Khan,Teacher,< 1 year,Rent,Not Verified,4405100.0,Gilgit-Baltistan
+MB-0173,Ali Khan,Accountant,7 years,Rent,Source Verified,584900.0,Punjab
+MB-0174,  Ahmed Chatha  ,Electrician,2 years,Own,Source Verified,4043400.0,Punjab
+MB-0175,adeel chatha,Teacher,1 year,Own,Verified,444600.0,Gilgit-Baltistan
+MB-0176,AHMED CHATHA,Government Employee,< 1 year,own,Source Verified,1161000.0,Khyber Pakhtunkhwa
+MB-0177,HASSAN CHAUDHRY,Software Engineer,2 years,Mortgage,Verified,3306200.0,Khyber Pakhtunkhwa
+MB-0178,  Zara Raza  ,Farmer,3 years,Mortgage,Verified,3614000.0,Punjab
+MB-0179,Nida Ansari,Shop Owner,3 years,rent,Source Verified,1209600.0,Punjab
+MB-0180,IMRAN CHATHA,Accountant,3 years,Own,Not Verified,3501200.0,Punjab
+MB-0181,ali raza,Teacher,3 years,Rent,Verified,4362100.0,Islamabad
+MB-0182,  Sadia Chatha  ,Doctor,5 years,Own,Verified,4240800.0,Sindh
+MB-0183,Amna Butt,Manager,10+ years,Own,Source Verified,2657300.0,Punjab
+MB-0184,WAQAS RAZA,Teacher,3 years,Mortgage,Source Verified,661900.0,Gilgit-Baltistan
+MB-0185,Ali Raza,Doctor,2 years,Mortgage,Source Verified,1018600.0,Gilgit-Baltistan
+MB-0186,Fatima Farooq,Farmer,5 years,Rent,Source Verified,442300.0,Islamabad
+MB-0187,Hassan Ansari,Consultant,10+ years,Mortgage,Source Verified,1658000.0,Balochistan
+MB-0188,TARIQ BAIG,Driver,1 year,Own,Source Verified,4017500.0,Sindh
+MB-0189,KASHIF SHEIKH,Doctor,10+ years,Rent,Source Verified,949300.0,Sindh
+MB-0190,FATIMA BAIG,Driver,5 years,Mortgage,Not Verified,4314300.0,Khyber Pakhtunkhwa
+MB-0191,Areeba Malik,Manager,< 1 year,Own,Verified,3638500.0,Gilgit-Baltistan
+MB-0192,MARIAM CHAUDHRY,Bank Officer,< 1 year,Rent,Not Verified,1167100.0,Balochistan
+MB-0193,Tariq Khan,Sales Executive,10+ years,Mortgage,Source Verified,4419700.0,Khyber Pakhtunkhwa
+MB-0194,Tariq Khan,Doctor,5 years,Rent,Source Verified,1317600.0,Balochistan
+MB-0195,  Junaid Qureshi  ,Nurse,7 years,Mortgage,Source Verified,3333300.0,Gilgit-Baltistan
+MB-0196,Junaid Qureshi,Manager,1 year,rent,Not Verified,1614700.0,Gilgit-Baltistan
+MB-0197,junaid malik,Bank Officer,10+ years,Mortgage,Source Verified,957100.0,Balochistan
+MB-0198,Amna Farooq,Driver,10+ years,Mortgage,Source Verified,4206800.0,Sindh
+MB-0199,ADEEL HUSSAIN,Electrician,< 1 year,Mortgage,Verified,460200.0,Islamabad
+MB-0200,Usman Butt,Farmer,2 years,Own,Not Verified,2572300.0,Gilgit-Baltistan
+MB-0201,Amna Ansari,Manager,10+ years,Mortgage,Not Verified,3416900.0,Balochistan
+MB-0202,Usman Hussain,Sales Executive,5 years,Own,Source Verified,1793000.0,Punjab
+MB-0203,zain iqbal,Sales Executive,< 1 year,own,Not Verified,2940000.0,Gilgit-Baltistan
+MB-0204,SADIA QURESHI,Teacher,1 year,Mortgage,Source Verified,4380300.0,Balochistan
+MB-0205,Tariq Sheikh,Accountant,10+ years,Own,Source Verified,1111300.0,Gilgit-Baltistan
+MB-0206,Sana Baig,Consultant,1 year,Mortgage,Not Verified,2266000.0,Khyber Pakhtunkhwa
+MB-0207,Salman Ansari,Electrician,10+ years,Mortgage,Verified,1423200.0,Balochistan
+MB-0208,mahnoor iqbal,Manager,1 year,mortgage,Source Verified,3655400.0,Khyber Pakhtunkhwa
+MB-0209,FATIMA HUSSAIN,Shop Owner,3 years,Mortgage,Source Verified,658800.0,Khyber Pakhtunkhwa
+MB-0210,BILAL JUTT,Consultant,3 years,own,Source Verified,4104400.0,Sindh
+MB-0211,KASHIF CHATHA,Manager,5 years,Own,Verified,4297400.0,Gilgit-Baltistan
+MB-0212,  Mariam Iqbal  ,Teacher,5 years,Own,Verified,3560500.0,Khyber Pakhtunkhwa
+MB-0213,Iqra Butt,Self Employed,3 years,Rent,Source Verified,2855100.0,Punjab
+MB-0214,  Mahnoor Jutt  ,Electrician,7 years,Mortgage,Source Verified,1195000.0,Punjab
+MB-0215,areeba chatha,Manager,< 1 year,rent,Not Verified,1283500.0,Sindh
+MB-0216,  Amna Farooq  ,Software Engineer,3 years,Mortgage,Source Verified,2363800.0,Balochistan
+MB-0217,  Hina Ansari  ,Consultant,7 years,Own,Not Verified,2265400.0,Islamabad
+MB-0218,AMNA HUSSAIN,Consultant,3 years,Mortgage,Source Verified,616700.0,Gilgit-Baltistan
+MB-0219,Sadia Hussain,Software Engineer,5 years,Own,Not Verified,3696100.0,Punjab
+MB-0220,kashif farooq,Electrician,1 year,Own,Not Verified,2926200.0,Khyber Pakhtunkhwa
+MB-0221,AYESHA CHATHA,Shop Owner,3 years,Rent,Verified,1493400.0,Khyber Pakhtunkhwa
+MB-0222,  Nida Iqbal  ,Software Engineer,10+ years,Mortgage,Not Verified,1995700.0,Islamabad
+MB-0223,  Zain Chatha  ,Shop Owner,1 year,Rent,Verified,1689800.0,Khyber Pakhtunkhwa
+MB-0224,Junaid Iqbal,Driver,7 years,Own,Verified,1975300.0,Islamabad
+MB-0225,  Adeel Chaudhry  ,Driver,< 1 year,Mortgage,Verified,494900.0,Balochistan
+MB-0226,Rabia Awan,Electrician,5 years,Rent,Source Verified,917600.0,Gilgit-Baltistan
+MB-0227,  Junaid Baig  ,Self Employed,7 years,Own,Source Verified,2961100.0,Gilgit-Baltistan
+MB-0228,Salman Butt,Manager,1 year,Own,Verified,4139100.0,Gilgit-Baltistan
+MB-0229,Ali Raza,Electrician,2 years,Rent,Not Verified,1076100.0,Punjab
+MB-0230,hassan khan,Driver,7 years,Rent,Verified,2390600.0,Islamabad
+MB-0231,Sara Chatha,Electrician,10+ years,Mortgage,Not Verified,2175200.0,Punjab
+MB-0232,  Mahnoor Chaudhry  ,Driver,7 years,Own,Not Verified,2605000.0,Punjab
+MB-0233,Waqas Farooq,Self Employed,1 year,rent,Verified,339200.0,Gilgit-Baltistan
+MB-0234,Ayesha Chatha,Bank Officer,10+ years,own,Verified,1456900.0,Islamabad
+MB-0235,Fatima Farooq,Self Employed,< 1 year,Mortgage,Source Verified,3218300.0,Sindh
+MB-0236,Areeba Awan,Doctor,7 years,Rent,Not Verified,3112100.0,Khyber Pakhtunkhwa
+MB-0237,Zara Khan,Software Engineer,< 1 year,Own,Source Verified,3732800.0,Punjab
+MB-0238,OMAR IQBAL,Nurse,5 years,Own,Not Verified,2857600.0,Khyber Pakhtunkhwa
+MB-0239,sadia qureshi,Government Employee,7 years,own,Verified,1825700.0,Gilgit-Baltistan
+MB-0240,hina hussain,Government Employee,3 years,Mortgage,Source Verified,1702300.0,Khyber Pakhtunkhwa
+MB-0241,  Sara Qureshi  ,Shop Owner,10+ years,Rent,Verified,3791400.0,Islamabad
+MB-0242,  Danish Iqbal  ,Sales Executive,1 year,Mortgage,Not Verified,2827500.0,Sindh
+MB-0243,IQRA FAROOQ,Nurse,< 1 year,Mortgage,Not Verified,960600.0,Punjab
+MB-0244,Mariam Chatha,Electrician,10+ years,rent,Source Verified,3175500.0,Balochistan
+MB-0245,Sadia Ansari,Farmer,5 years,Mortgage,Verified,3608300.0,Gilgit-Baltistan
+MB-0246,ZARA SHEIKH,Driver,< 1 year,Rent,Source Verified,1167700.0,Khyber Pakhtunkhwa
+MB-0247,Imran Awan,Electrician,3 years,Mortgage,Source Verified,3687600.0,Punjab
+MB-0248,  Fatima Chaudhry  ,Farmer,2 years,Rent,Source Verified,2775200.0,Sindh
+MB-0249,Usman Sheikh,Accountant,10+ years,Rent,Source Verified,2670600.0,Balochistan
+MB-0250,Salman Ansari,Bank Officer,< 1 year,Mortgage,Verified,1861000.0,Balochistan
+MB-0251,Iqra Malik,Shop Owner,5 years,Own,Source Verified,2850000.0,Punjab
+MB-0252,  Sara Sheikh  ,Government Employee,5 years,Rent,Not Verified,2089000.0,Balochistan
+MB-0253,  Salman Qureshi  ,Accountant,2 years,Own,Verified,1888400.0,Punjab
+MB-0254,  Sara Khan  ,Shop Owner,10+ years,Rent,Verified,3924500.0,Gilgit-Baltistan
+MB-0255,Omar Jutt,Nurse,< 1 year,Mortgage,Verified,2990700.0,Gilgit-Baltistan
+MB-0256,Kashif Chaudhry,Government Employee,10+ years,Own,Verified,4465200.0,Sindh
+MB-0257,HINA KHAN,Shop Owner,< 1 year,Rent,Verified,1383200.0,Islamabad
+MB-0258,junaid baig,Software Engineer,< 1 year,Own,Verified,4245400.0,Gilgit-Baltistan
+MB-0259,  Areeba Iqbal  ,Driver,3 years,rent,Not Verified,1861100.0,Balochistan
+MB-0260,ayesha raza,Sales Executive,1 year,Mortgage,Verified,4140100.0,Punjab
+MB-0261,Tariq Baig,Electrician,< 1 year,Own,Verified,626700.0,Islamabad
+MB-0262,Komal Raza,Electrician,3 years,Own,Not Verified,3837400.0,Gilgit-Baltistan
+MB-0263,AHMED FAROOQ,Shop Owner,10+ years,Own,Source Verified,1837300.0,Khyber Pakhtunkhwa
+MB-0264,Fatima Baig,Accountant,7 years,Mortgage,Verified,2143700.0,Sindh
+MB-0265,zain chaudhry,Bank Officer,1 year,Own,Not Verified,1704900.0,Sindh
+MB-0266,Zain Farooq,Shop Owner,3 years,mortgage,Source Verified,538800.0,Gilgit-Baltistan
+MB-0267,  Zara Sheikh  ,Government Employee,10+ years,mortgage,Verified,4376900.0,Balochistan
+MB-0268,Zain Sheikh,Teacher,3 years,Mortgage,Verified,541400.0,Gilgit-Baltistan
+MB-0269,Mariam Butt,Government Employee,10+ years,Rent,Verified,2160600.0,Islamabad
+MB-0270,MARIAM BUTT,Sales Executive,< 1 year,Mortgage,Source Verified,1058900.0,Sindh
+MB-0271,Kashif Awan,Nurse,1 year,Own,Verified,4035200.0,Gilgit-Baltistan
+MB-0272,AMNA AWAN,Accountant,1 year,Own,Source Verified,2939500.0,Sindh
+MB-0273,Imran Iqbal,Software Engineer,< 1 year,Rent,Not Verified,3832500.0,Punjab
+MB-0274,KASHIF AWAN,Shop Owner,2 years,Rent,Not Verified,679400.0,Balochistan
+MB-0275,zara awan,Accountant,10+ years,Rent,Verified,2665100.0,Khyber Pakhtunkhwa
+MB-0276,SARA BUTT,Driver,5 years,Own,Not Verified,4368700.0,Punjab
+MB-0277,Ayesha Raza,Consultant,10+ years,Mortgage,Not Verified,2720500.0,Punjab
+MB-0278,Mariam Chatha,Nurse,3 years,Mortgage,Source Verified,3678900.0,Sindh
+MB-0279,Ali Sheikh,Bank Officer,5 years,Own,Not Verified,1351900.0,Punjab
+MB-0280,Ali Malik,Doctor,< 1 year,Rent,Not Verified,2496200.0,Gilgit-Baltistan
+MB-0281,TARIQ MALIK,Consultant,< 1 year,Rent,Not Verified,816800.0,Balochistan
+MB-0282,IMRAN ANSARI,Teacher,< 1 year,Own,Verified,2574700.0,Sindh
+MB-0283,Komal Sheikh,Manager,5 years,Mortgage,Verified,4282400.0,Punjab
+MB-0284,waqas chaudhry,Driver,10+ years,Rent,Not Verified,4376100.0,Punjab
+MB-0285,SALMAN RAZA,Sales Executive,1 year,Mortgage,Source Verified,3678400.0,Khyber Pakhtunkhwa
+MB-0286,  Danish Chaudhry  ,Software Engineer,2 years,rent,Source Verified,4224200.0,Sindh
+MB-0287,Komal Chaudhry,Shop Owner,< 1 year,Rent,Not Verified,2118800.0,Islamabad
+MB-0288,Mahnoor Khan,Accountant,3 years,Mortgage,Not Verified,2959500.0,Punjab
+MB-0289,  Sara Chatha  ,Doctor,7 years,Rent,Source Verified,3686600.0,Punjab
+MB-0290,RABIA MALIK,Teacher,5 years,Own,Verified,1507600.0,Khyber Pakhtunkhwa
+MB-0291,Sadia Hussain,Teacher,< 1 year,Rent,Source Verified,4086000.0,Punjab
+MB-0292,  Tariq Qureshi  ,Self Employed,1 year,mortgage,Verified,4017800.0,Balochistan
+MB-0293,IMRAN IQBAL,Bank Officer,7 years,Own,Not Verified,3826900.0,Islamabad
+MB-0294,Junaid Qureshi,Manager,3 years,Own,Not Verified,2235700.0,Islamabad
+MB-0295,mariam qureshi,Government Employee,10+ years,mortgage,Not Verified,1230600.0,Islamabad
+MB-0296,  Sana Chaudhry  ,Sales Executive,< 1 year,Mortgage,Verified,1660600.0,Khyber Pakhtunkhwa
+MB-0297,AMNA IQBAL,Self Employed,1 year,mortgage,Verified,966000.0,Punjab
+MB-0298,RABIA CHATHA,Government Employee,7 years,Own,Not Verified,1787300.0,Punjab
+MB-0299,Kashif Sheikh,Sales Executive,2 years,Rent,Source Verified,1150500.0,Islamabad
+MB-0300,  Komal Iqbal  ,Teacher,7 years,Rent,Not Verified,1428500.0,Gilgit-Baltistan
+MB-0301,Junaid Hussain,Sales Executive,10+ years,own,Source Verified,2760500.0,Balochistan
+MB-0302,Omar Qureshi,Sales Executive,10+ years,Mortgage,Source Verified,766300.0,Balochistan
+MB-0303,JUNAID FAROOQ,Nurse,2 years,Mortgage,Source Verified,2632500.0,Balochistan
+MB-0304,Waqas Raza,Electrician,7 years,Mortgage,Not Verified,1073700.0,Khyber Pakhtunkhwa
+MB-0305,iqra butt,Driver,3 years,Rent,Not Verified,1660200.0,Islamabad
+MB-0306,DANISH SHEIKH,Bank Officer,3 years,own,Not Verified,2672700.0,Balochistan
+MB-0307,  Mariam Jutt  ,Electrician,2 years,Rent,Not Verified,2473300.0,Islamabad
+MB-0308,areeba hussain,Sales Executive,3 years,mortgage,Source Verified,1774600.0,Punjab
+MB-0309,  Mahnoor Malik  ,Bank Officer,< 1 year,Mortgage,Not Verified,3023900.0,Islamabad
+MB-0310,Bilal Jutt,Sales Executive,3 years,Mortgage,Source Verified,4076400.0,Islamabad
+MB-0311,  Hassan Baig  ,Nurse,10+ years,Own,Not Verified,1840000.0,Punjab
+MB-0312,  Danish Iqbal  ,Accountant,< 1 year,Rent,Source Verified,1742100.0,Islamabad
+MB-0313,Adeel Chaudhry,Farmer,2 years,Rent,Verified,2031500.0,Punjab
+MB-0314,  Waqas Qureshi  ,Teacher,2 years,Rent,Source Verified,3336000.0,Gilgit-Baltistan
+MB-0315,Nida Khan,Doctor,7 years,Rent,Not Verified,1969800.0,Punjab
+MB-0316,Imran Khan,Bank Officer,1 year,Mortgage,Source Verified,1417300.0,Gilgit-Baltistan
+MB-0317,  Adeel Ansari  ,Accountant,5 years,Own,Verified,910500.0,Islamabad
+MB-0318,Salman Ansari,Software Engineer,< 1 year,Own,Source Verified,2359800.0,Balochistan
+MB-0319,Rabia Chaudhry,Manager,< 1 year,Rent,Not Verified,904500.0,Sindh
+MB-0320,Sadia Iqbal,Software Engineer,2 years,rent,Source Verified,564700.0,Sindh
+MB-0321,tariq qureshi,Software Engineer,< 1 year,Own,Source Verified,3509000.0,Punjab
+MB-0322,  Tariq Khan  ,Bank Officer,1 year,own,Source Verified,3889800.0,Khyber Pakhtunkhwa
+MB-0323,ali jutt,Doctor,3 years,Rent,Not Verified,4414100.0,Punjab
+MB-0324,fatima hussain,Manager,7 years,Rent,Not Verified,1974100.0,Gilgit-Baltistan
+MB-0325,Amna Khan,Teacher,1 year,Own,Verified,332100.0,Khyber Pakhtunkhwa
+MB-0326,OMAR ANSARI,Teacher,2 years,Rent,Not Verified,1993400.0,Punjab
+MB-0327,AYESHA CHAUDHRY,Farmer,1 year,Mortgage,Not Verified,1746800.0,Balochistan
+MB-0328,Sara Iqbal,Shop Owner,10+ years,Own,Verified,689100.0,Khyber Pakhtunkhwa
+MB-0329,Sana Chatha,Farmer,3 years,Mortgage,Verified,968700.0,Khyber Pakhtunkhwa
+MB-0330,usman baig,Sales Executive,7 years,Rent,Not Verified,2420300.0,Sindh
+MB-0331,Komal Farooq,Nurse,2 years,Rent,Source Verified,4457900.0,Islamabad
+MB-0332,  Fatima Chaudhry  ,Farmer,1 year,Own,Verified,3147000.0,Punjab
+MB-0333,SANA CHATHA,Nurse,10+ years,mortgage,Source Verified,2684300.0,Khyber Pakhtunkhwa
+MB-0334,Ali Chaudhry,Nurse,1 year,Own,Source Verified,4043500.0,Punjab
+MB-0335,SANA JUTT,Electrician,5 years,Mortgage,Source Verified,1607300.0,Sindh
+MB-0336,mariam butt,Doctor,2 years,Mortgage,Not Verified,3555000.0,Gilgit-Baltistan
+MB-0337,Komal Chatha,Self Employed,2 years,own,Source Verified,3657400.0,Gilgit-Baltistan
+MB-0338,sadia jutt,Software Engineer,7 years,Rent,Verified,4499700.0,Balochistan
+MB-0339,Sadia Jutt,Accountant,2 years,Own,Source Verified,3383000.0,Gilgit-Baltistan
+MB-0340,mahnoor khan,Software Engineer,5 years,Own,Not Verified,956000.0,Gilgit-Baltistan
+MB-0341,SARA ANSARI,Manager,7 years,Own,Verified,2694700.0,Gilgit-Baltistan
+MB-0342,kashif iqbal,Manager,7 years,Rent,Verified,769900.0,Gilgit-Baltistan
+MB-0343,Mariam Jutt,Self Employed,10+ years,Rent,Verified,4391300.0,Gilgit-Baltistan
+MB-0344,AYESHA KHAN,Bank Officer,10+ years,Mortgage,Verified,2052400.0,Gilgit-Baltistan
+MB-0345,  Omar Baig  ,Consultant,1 year,Mortgage,Not Verified,4274700.0,Balochistan
+MB-0346,TARIQ JUTT,Nurse,5 years,Rent,Source Verified,2929000.0,Islamabad
+MB-0347,Sara Hussain,Sales Executive,7 years,Rent,Verified,2355900.0,Sindh
+MB-0348,  Sara Baig  ,Doctor,1 year,Rent,Source Verified,1291200.0,Khyber Pakhtunkhwa
+MB-0349,Fatima Khan,Shop Owner,2 years,mortgage,Source Verified,1604300.0,Sindh
+MB-0350,mahnoor baig,Manager,3 years,Own,Verified,2464600.0,Balochistan
+MB-0006,Ahmed Qureshi,Driver,1 year,Mortgage,Not Verified,3564400.0,Balochistan
+MB-0081,Mariam Baig,Sales Executive,2 years,Mortgage,Not Verified,307300.0,Khyber Pakhtunkhwa
+MB-0151,  Ayesha Awan  ,Software Engineer,7 years,Mortgage,Not Verified,2631800.0,Islamabad
